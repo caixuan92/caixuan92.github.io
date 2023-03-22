@@ -1,3 +1,5 @@
+
+
 body {
     font-family:'Noto Sans TC', sans-serif;
     }
@@ -6,3 +8,20 @@ body {
     font-family:'Noto Sans TC', sans-serif;
     }
     
+    :root {
+        --bs-primary: #aa1384;
+        --bs-primary-rgb: 170,19,132;
+        --bs-secondary: #a10c19;
+        --bs-secondary-rgb: 161, 12, 25;
+    
+    }
+    .expedu_icon:hover {
+        color: var(--bs-secondary);
+    }
+    a {
+        color: var(--bs-primary);
+    }
+
+    .socail-icons .social-icon:hover {
+        background-color: var(--bs-secondary);
+    }
