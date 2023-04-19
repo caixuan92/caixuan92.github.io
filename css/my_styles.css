@@ -26,5 +26,5 @@ body {
         background-color: var(--bs-secondary);
     }
 table {width: 80%;}
-td {border:1px solid #2a5d44;}
+th,td {border:1px solid #2a5d44;}
 th {background-color:#99BBFF;}
