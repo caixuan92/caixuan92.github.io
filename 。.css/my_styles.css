@@ -26,5 +26,5 @@ body {
         background-color: var(--bs-secondary);
     }
 table {width: 80%;}
-th,td {border:1px solid #e6e6fa;}
-th {background-color:#99BBFF;}
+th,td {border:1px solid #D5CBEF;}
+th {background-color:#CCCCFF;}
