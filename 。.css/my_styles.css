@@ -24,9 +24,9 @@ body {
  }
  
  :root {
-    --bs-primary: rgb(183, 188, 250);
+    --bs-primary: #b7bcfa;
     --bs-primary-rgb: 183, 188, 250;
-    --bs-secondary: rgb(21, 4, 255);
+    --bs-secondary: #1504ff;
     --bs-secondary-rgb: 21, 4, 255;
  }
  
