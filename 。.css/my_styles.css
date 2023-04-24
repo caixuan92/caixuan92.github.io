@@ -9,10 +9,10 @@ body {
     }
     
     :root {
-        --bs-primary: #aa1384;
-        --bs-primary-rgb: 170,19,132;
-        --bs-secondary: #a10c19;
-        --bs-secondary-rgb: 161, 12, 25;
+        --bs-primary: #c9b4fe;
+        --bs-primary-rgb: (201, 180, 254);
+        --bs-secondary: #7b56f5;
+        --bs-secondary-rgb: (123, 86, 245);
     
     }
     .expedu_icon:hover {
@@ -26,5 +26,5 @@ body {
         background-color: var(--bs-secondary);
     }
 table {width: 80%;}
-th,td {border:1px solid #2a5d44;}
+th,td {border:1px solid #bbbbf4;}
 th {background-color:#99BBFF;}
