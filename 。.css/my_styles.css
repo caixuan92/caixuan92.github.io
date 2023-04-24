@@ -1,51 +1,47 @@
 
 
-body {
+body{
     font-family: 'Noto Sans TC',sans-serif;
- }
- 
- h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
-     font-family: 'Noto Sans TC',sans-serif;
-     text-transform: none;
- }
- 
- .subheading  {
-    font-family: 'Noto Sans TC' ,sans-serif;
-    text-transform: none;
- }
- 
- .expedu_icon {
-    color: #413942;
-    text-decoration: none;
- }
- 
- .expedu_icon:hover {
-    color: var(--bs-primary);
- }
- 
- :root {
-    --bs-primary: #b7bcfa;
-    --bs-primary-rgb: 183, 188, 250;
-    --bs-secondary: #1504ff;
-    --bs-secondary-rgb: 21, 4, 255;
- }
- 
- .expedu_icon:hover {
-    color: var(--bs-secondary);
- }
- 
- a {
-    color: var(--bs-primary);
- }
- 
- a:hover {
-    color: var(--bs-secondary);
- }
- 
- .social-icons .social-icon:hover {
-    background-color: var(--bs-secondary);
- }
+}
 
- .fa-ul{
-   font-size: 1.1rem;
- }
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
+    font-family: 'Noto Sans TC',sans-serif;
+    text-transform: none;
+}
+
+.subheading{
+    font-family: 'Noto Sans TC',sans-serif;
+    text-transform: none;
+}
+
+.expedu-icon{
+    color:#495057;
+    text-decoration:none;
+}
+
+.expedu-icon:hover{
+    color:var(--bs-secondary);
+}
+
+:root{
+    --bs-primary:rgb(197, 175, 248);
+    --bs-primary-rgb:197,175,248;
+    --bs-secondary:rgb(2, 76, 38);
+    --bs-secondary-rgb:2,76,38;
+}
+
+a{
+    color:var(--bs-primary);
+    text-decoration:none;
+}
+a:hover{
+    color:var(--bs-secondary);
+    text-decoration:none;
+}
+
+.social-icons .social-icon:hover{
+    background-color:var(--bs-secondary);
+}
+.fa-ul{
+    font-size: 1.1rem;
+}
