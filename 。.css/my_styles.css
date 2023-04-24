@@ -9,10 +9,10 @@ body {
     }
     
     :root {
-        --bs-primary: #0dcaf0;
-        --bs-primary-rgb: 13, 202, 240;
-        --bs-secondary: #0d6efd;
-        --bs-secondary-rgb: 13, 110, 253;
+        --bs-primary: #aa1384;
+        --bs-primary-rgb: 170,19,132;
+        --bs-secondary: #a10c19;
+        --bs-secondary-rgb: 161, 12, 25;
     
     }
     .expedu_icon:hover {
