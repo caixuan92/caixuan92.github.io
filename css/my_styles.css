@@ -24,10 +24,10 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 }
 
 :root{
-    --bs-primary:#c5aff8;
-    --bs-primary-rgb:197,175,248;
-    --bs-secondary:#024c26;
-    --bs-secondary-rgb:2,76,38;
+    --bs-primary:#0dcaf0;
+    --bs-primary-rgb:13, 202, 240;
+    --bs-secondary:#6610f2;
+    --bs-secondary-rgb:102, 16, 242;
 }
 
 a{
