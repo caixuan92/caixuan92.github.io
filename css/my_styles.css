@@ -45,3 +45,7 @@ a:hover{
 .fa-ul{
     font-size: 1.1rem;
 }
+
+.card {
+   width: 310px;
+}
